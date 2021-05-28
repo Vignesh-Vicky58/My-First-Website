@@ -1,5 +1,5 @@
-# My-First-Website
-My first website which is the introduction about myself
+# My-Portfolio
+My Portfolio created using html, css and bootstrap
 # SHAPEAI WEB DEV WITH BOOTSTRAP BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
